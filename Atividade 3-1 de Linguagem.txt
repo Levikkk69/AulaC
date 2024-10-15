@@ -1,0 +1,10 @@
+#include <stdbool.h>
+
+int main(void) {
+    int folhas = 100;
+if(folhas <= 100){
+    printf("pagarar 0,25 centavos");
+} else{
+    printf("pagara 0,20 centavos");
+};
+}
